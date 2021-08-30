@@ -84,6 +84,10 @@ p.lead {
     text-transform: uppercase
 }
 
+.img-project {
+    width: 30rem;
+}
+
 @media (min-width:992px) {
     #sideNav {
         text-align: center;
